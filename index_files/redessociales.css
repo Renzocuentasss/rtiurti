@@ -1,0 +1,60 @@
+/*html, body {
+   margin: 0;
+   padding: 0;
+}*/
+.social_{
+/*	position: fixed;
+	padding-left: -19px;
+	top: 284px;
+	z-index:2000;
+*/
+}
+.menuTrasparente{
+z-index: 900000px;
+}
+.estiloletra{
+	font-family: 'Georgia';
+
+}
+
+.ir-arriba {
+	display:none;
+	padding:15px;
+	background:#024959;
+	font-size:15px;
+	color:#fff;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	right:20px;
+}
+
+.social_ ul{
+	/*list-style: none;*/
+}
+.social_ ul li a{
+	/*display: inline-block;*/
+	color: #fff;
+/*	background: #000;*/
+	padding: 10px 15px;
+	text-decoration: none;
+	-webkit-transition:all 500ms ease;
+	-moz-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease;
+}
+.social_  .icon-facebook{background:#3b5998; width: 45px; }
+.social_ ul li .icon-youtube{background:red; width: 45px;}
+.social ul li .icon-twitter{background:#00abf0; width: 45px;}
+
+.social_ ul li .icon-instagram{background:#1E90FF; width: 45px;}
+
+.social_ ul li .icon-twitter{background:#1dcaff; width: 45px;}
+
+.social_ ul li .icon-tiktok{background:#1dcaff; width: 45px;}
+
+.social_ ul li a:hover{
+	padding: 10px 30px;/* efecto de extenderse*/
+	/*background:#000;*/
+
+}
